@@ -3,7 +3,7 @@ import { View, StyleSheet, Animated, Text, Image, TouchableOpacity } from 'react
 import { useNavigation } from '@react-navigation/native'; // Import useNavigation hook
 
 // Import your image
-import quizImage from '/Users/nitish/QuizApp/assets/main.png'; // Replace 'path/to/your/image' with the actual path to your image
+import quizImage from '/Users/nitish/QuizApp01/assets/main.png'; // Replace 'path/to/your/image' with the actual path to your image
 
 const Firstscreen = () => {
     const navigation = useNavigation(); // Initialize useNavigation hook
