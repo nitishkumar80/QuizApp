@@ -104,6 +104,7 @@ const Html = () => {
 
   return (
     <View style={styles.container}>
+      
       {showScore ? (
         <View>
           <Text style={styles.heading}>Score</Text>
